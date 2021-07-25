@@ -1,4 +1,4 @@
-# MYSql Employee Tracker
+# Employee Tracker
 
 An application using Node.JS and inquire to manage a database on employee data.
 
